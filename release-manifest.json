@@ -1,0 +1,33 @@
+{
+  "review_date": "2026-10-16",
+  "scope": "New methods documentation, synthetic-only code, aggregate synthetic outputs, newly drawn diagrams. Original clinical materials excluded.",
+  "sha256": {
+    ".github/workflows/test.yml": "5b1cee5d1e5b767a90d8bb8b2318e7e3b7e814f6d502fb1bf1de89490b432e3a",
+    ".gitignore": "4bb00a8eae3c41730ab8a8bfc588b7774f272a1e485ad3c36aa5d67f9a1a1738",
+    "README.md": "bb31e7aad46ca151f4c5a60925ca83089c9620d662ba0fd54dddc8f19f8444b5",
+    "docs/evidence-audit.md": "8ce8405909b60e95942e92ce4006e0f04b53cf51a25b583c14dfb285b86af110",
+    "docs/methodology.md": "c93fd2e1f7453a7fbfc41ed979a48b48275fbd6f24695ed85b23d253359d7e5f",
+    "docs/privacy.md": "c9112a2653cafcafcc56191ce834a678f940498c38cd0a1399cfcc352d62d44b",
+    "docs/process.md": "1338787e812389f11c067e48be223de0521e338f788a7b7594e9788c5ed60855",
+    "docs/references.md": "2ec4de4b21ca91be552b76a801f4babee5eab1ae0cb66a287702062fbed1f71b",
+    "docs/reproducibility.md": "fbb82f37e27b6a91442023a5bc2997ff1dbd97a571a47a8014d9d43c9a517d4c",
+    "docs/study-protocol.md": "0eac7353a996ec914f0902f7c903cd54279f20838e039896d71d813884911cd2",
+    "environment-tested.txt": "f80472bcec7b6ae05d942d03f4bfa1c4e37882f50171e13c23c0bcdbdcc8aa70",
+    "examples/balance.csv": "121058b8def0bc3daab0389587ee2bf7e290e0469f8828bc0c22880b4bd65fb8",
+    "examples/summary.json": "d591b57bcc6b1cb4186105f22354073348e6bf6a76d6fd737dad599c4040e185",
+    "figures/synthetic-diagnostics.png": "83ccb762c2879135923f0b29fafe712a10b251b8c471862b35afa60ceaf07e15",
+    "figures/synthetic-diagnostics.svg": "cdafbfd078e0462d7d6648237aed108f0afe492faad910aaf8816a44e87d3362",
+    "figures/workflow.png": "5f1b6b3a23a7b0d5200a31fd6883f165c97349a3a879ee23bc15b971c9e2bae0",
+    "figures/workflow.svg": "d225c04338f45e12b87ddb91f23dbd084d3a74ae8a69980a83bcc412fae84397",
+    "requirements-forest.txt": "62b3b6d55311d331b31725423b121d2e53fbae14f63a847d18fc47a6899b5381",
+    "requirements.txt": "dd5a83900cfa831e2ffdfd8d42615ce17ae24ed8baa2b3cfd653617215a47583",
+    "rrt_demo/__init__.py": "e531a5f97ec12f30001e1ebd6617b699e8a67add1c5c503c0416e5ce954db1e0",
+    "rrt_demo/estimators.py": "3beecba3f5519f96bb8562a251cfae19e7b8e55d807ba59052a781d0221841f1",
+    "rrt_demo/run.py": "2ce5117d7b8cd2d01937f88c6c24985ee113d538f32f31d33864f719ae85affd",
+    "rrt_demo/synthetic.py": "be17608032af8f9000e248602081e2f6c5572d6278605156b1e8874f28728ac8",
+    "rrt_demo/temporal.py": "a781ddc04033a391f57c936c19e65ee731dcee42f1d9e9e86fba47dcb4a87927",
+    "scripts/check_release.py": "e06367f0c6e2cd6219e1e5397ea925686402270fe012f1beaaf87f8aaf8fec9d",
+    "scripts/draw_workflow.py": "5df960313bfde9b9e0f4876df329e170d39866d77878f0226838aa6ce711ea2f",
+    "tests/test_methods.py": "ad92c989985a2648b5ba2cf8535a11b8ce29127d581c8086f4f1cacea4fc3b00"
+  }
+}

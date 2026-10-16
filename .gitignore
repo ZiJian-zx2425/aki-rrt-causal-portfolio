@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env*
+demo_output/
+data/
+private/
+*.pkl
+*.pickle
+*.parquet
+*.ipynb
+*.rds
+*.zip
+*.pem
