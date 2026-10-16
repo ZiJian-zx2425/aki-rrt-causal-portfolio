@@ -4,7 +4,7 @@
   "sha256": {
     ".github/workflows/test.yml": "5b1cee5d1e5b767a90d8bb8b2318e7e3b7e814f6d502fb1bf1de89490b432e3a",
     ".gitignore": "4bb00a8eae3c41730ab8a8bfc588b7774f272a1e485ad3c36aa5d67f9a1a1738",
-    "README.md": "bb31e7aad46ca151f4c5a60925ca83089c9620d662ba0fd54dddc8f19f8444b5",
+    "README.md": "c5d77f4b45db51d08e3da8c41463a0a62f4d2f4560bf87246160ca6c752ce9a4",
     "docs/evidence-audit.md": "8ce8405909b60e95942e92ce4006e0f04b53cf51a25b583c14dfb285b86af110",
     "docs/methodology.md": "c93fd2e1f7453a7fbfc41ed979a48b48275fbd6f24695ed85b23d253359d7e5f",
     "docs/privacy.md": "c9112a2653cafcafcc56191ce834a678f940498c38cd0a1399cfcc352d62d44b",
@@ -17,8 +17,9 @@
     "examples/summary.json": "d591b57bcc6b1cb4186105f22354073348e6bf6a76d6fd737dad599c4040e185",
     "figures/synthetic-diagnostics.png": "83ccb762c2879135923f0b29fafe712a10b251b8c471862b35afa60ceaf07e15",
     "figures/synthetic-diagnostics.svg": "cdafbfd078e0462d7d6648237aed108f0afe492faad910aaf8816a44e87d3362",
-    "figures/workflow.png": "5f1b6b3a23a7b0d5200a31fd6883f165c97349a3a879ee23bc15b971c9e2bae0",
-    "figures/workflow.svg": "d225c04338f45e12b87ddb91f23dbd084d3a74ae8a69980a83bcc412fae84397",
+    "figures/workflow.pdf": "3545353f64afd2fcbf20f5ab317ef6dc960c65960659c1a330df2ed4dd31a27f",
+    "figures/workflow.png": "a27fc39595873d354fde373fe6cf888e5911f776b6fabef75a5bfe359fc174bb",
+    "figures/workflow.svg": "cd0e1c503c02a6c556dff4fa9ae844a5aef24767b1fd8e02fbc67386f1b6d2c2",
     "requirements-forest.txt": "62b3b6d55311d331b31725423b121d2e53fbae14f63a847d18fc47a6899b5381",
     "requirements.txt": "dd5a83900cfa831e2ffdfd8d42615ce17ae24ed8baa2b3cfd653617215a47583",
     "rrt_demo/__init__.py": "e531a5f97ec12f30001e1ebd6617b699e8a67add1c5c503c0416e5ce954db1e0",
@@ -27,7 +28,7 @@
     "rrt_demo/synthetic.py": "be17608032af8f9000e248602081e2f6c5572d6278605156b1e8874f28728ac8",
     "rrt_demo/temporal.py": "a781ddc04033a391f57c936c19e65ee731dcee42f1d9e9e86fba47dcb4a87927",
     "scripts/check_release.py": "e06367f0c6e2cd6219e1e5397ea925686402270fe012f1beaaf87f8aaf8fec9d",
-    "scripts/draw_workflow.py": "5df960313bfde9b9e0f4876df329e170d39866d77878f0226838aa6ce711ea2f",
+    "scripts/draw_workflow.py": "28af8376b310aec88ea71b0afff0984c9ae5176db987b82089e38f866bf6afca",
     "tests/test_methods.py": "ad92c989985a2648b5ba2cf8535a11b8ce29127d581c8086f4f1cacea4fc3b00"
   }
 }

@@ -6,7 +6,9 @@ How should an observational study compare early renal replacement therapy (RRT) 
 
 The project builds on a University of Florida Causal AI course project by **Zijian Xu**. The public implementation is newly written and runs exclusively on data generated from mathematical distributions. **No patient records, restricted EHR extracts, original notebooks, fitted clinical models, or clinical study results are distributed.**
 
-![Technical workflow](figures/workflow.png)
+![Figure 1. Study overview](figures/workflow.png)
+
+[Vector PDF](figures/workflow.pdf) · [Editable SVG](figures/workflow.svg)
 
 ## What this project demonstrates
 
