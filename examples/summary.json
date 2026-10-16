@@ -1,0 +1,62 @@
+{
+  "unadjusted_risk_difference": 0.08128507779889194,
+  "ipw_risk_difference": -0.07000283779813266,
+  "aipw_risk_difference": -0.07063294033015524,
+  "aipw_se": 0.014631691360878983,
+  "aipw_ci95": [
+    -0.09931105539747805,
+    -0.04195482526283244
+  ],
+  "propensity_range": [
+    0.03831283424610646,
+    0.9673428107394025
+  ],
+  "propensity_clipped_fraction": 0.0,
+  "weight_max": 6.262463893618607,
+  "ess_by_arm": {
+    "0": 1755.7492727710585,
+    "1": 1461.4333985767257
+  },
+  "sensitivity": [
+    {
+      "propensity_clip": 0.01,
+      "aipw_risk_difference": -0.07063294033015524,
+      "fraction_clipped": 0.0
+    },
+    {
+      "propensity_clip": 0.025,
+      "aipw_risk_difference": -0.07063294033015524,
+      "fraction_clipped": 0.0
+    },
+    {
+      "propensity_clip": 0.05,
+      "aipw_risk_difference": -0.07063278924747325,
+      "fraction_clipped": 0.0015
+    }
+  ],
+  "ipw_rd_weight_cap_99pct": -0.06332295075666688,
+  "data_origin": "ENTIRELY SYNTHETIC; no patient-derived parameters",
+  "n": 4000,
+  "seed": 2026,
+  "estimand": "30-day risk difference: baseline A=1 minus A=0",
+  "oracle_mean_risk_difference": -0.06827466180889606,
+  "cox": {
+    "hazard_ratio": 0.780477912633704,
+    "ci95": [
+      0.6948479459100448,
+      0.8766605351495476
+    ],
+    "interpretation": "Weighted proportional-hazards working summary; not a risk ratio. CI treats estimated weights as fixed. Heterogeneous simulated hazards need not be marginally proportional."
+  },
+  "versions": {
+    "numpy": "2.0.2",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "lifelines": "0.30.0",
+    "econml": "0.17.0"
+  },
+  "causal_forest": {
+    "mean_predicted_cate": -0.08050118179075257,
+    "interpretation": "Exploratory average of fitted CATE predictions, not the separately computed AIPW estimate."
+  }
+}
